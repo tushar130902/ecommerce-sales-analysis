@@ -1,0 +1,12 @@
+
+# Dataset files
+data/*.csv
+data/*.xlsx
+online_etail.csv
+
+# Temporary files
+*.log
+*.tmp
+
+# Editor files
+.vscode/
